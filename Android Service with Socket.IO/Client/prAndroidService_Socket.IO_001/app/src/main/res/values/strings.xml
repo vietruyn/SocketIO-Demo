@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidService_Socket.IO</string>
+    <string name="service_name">Socket.IO Service</string>
+</resources>
